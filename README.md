@@ -121,7 +121,7 @@
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
         <a href="https://github.com/ashutosh-2403/Notira">
-          <img align="center" width="470" src="https://github.com/ashutosh-2403/Notira" alt="Notira" />
+          <img align="center" width="470" src=<img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh-2403&repo=Notira&theme=nightowl" alt="Notira" /
         </a>
       </p>
     </td>
