@@ -120,7 +120,7 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://github.com/ashutosh-2403/skillsync-backend">
+        <a href="https://github.com/ashutosh-2403/Notira">
           <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=ashutosh-2403&repo=skillsync-backend&theme=nightowl&show_owner=true&bg_color=0,000000,001a0f&title_color=00ff88&text_color=ffffff" alt="skillsync-backend" />
         </a>
       </p>
