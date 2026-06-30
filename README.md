@@ -15,7 +15,7 @@
 <p align="left">Backend Engineer with hands-on experience building financial systems, real-time sync engines, and enterprise middleware. I care about correctness, performance, and systems that don't break in production.</p>
 
 - ✨ Final-year Computer Engineering student @ PDEU, Gujarat — graduating May 2026
-- 🏦 Backend Intern at **Vittaka Fintech (Equirus Group)** — fixed float→BigDecimal precision bug corrupting ₹2Cr+ orders, built CSV sanitization pipelines, BSE API integrations
+- Software Developer at Heizen preivous: 🏦 Backend Intern at **Vittaka Fintech (Equirus Group)** — fixed float→BigDecimal precision bug corrupting ₹2Cr+ orders, built CSV sanitization pipelines, BSE API integrations
 - 🏢 Prior intern at **Tech Mahindra** — IOH middleware migration, 8+ Spring Boot services, TIBCO ESB
 - 🔄 Built **[Notira](https://github.com/ashutosh-2403/notira)** — self-hosted real-time Jira → Notion sync engine (Spring Boot, Redis, PostgreSQL, Docker)
 - 🤖 Built **[SkillSync](https://github.com/ashutosh-2403/skillsync-backend)** — AI career analysis platform (Node.js, Cohere API, JWT, Prisma)
